@@ -1,5 +1,5 @@
 import androidx.compose.runtime.Composable
+import com.akardas.alertercompose.App
 
-actual fun getPlatformName(): String = "Android"
 
 @Composable fun MainView() = App()

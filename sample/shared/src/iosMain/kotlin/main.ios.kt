@@ -1,5 +1,5 @@
 import androidx.compose.ui.window.ComposeUIViewController
+import com.akardas.alertercompose.App
 
-actual fun getPlatformName(): String = "iOS"
 
 fun MainViewController() = ComposeUIViewController { App() }

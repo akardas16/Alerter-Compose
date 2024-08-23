@@ -29,6 +29,10 @@ kotlin {
                 implementation(compose.material)
                 @OptIn(org.jetbrains.compose.ExperimentalComposeLibrary::class)
                 implementation(compose.components.resources)
+                
+                implementation(compose.ui)
+                implementation(compose.components.uiToolingPreview)
+
                 api(project(":lib"))
             }
         }

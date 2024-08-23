@@ -84,7 +84,7 @@ mavenPublishing {
     coordinates(
         groupId = "io.github.akardas16",
         artifactId = "alertercompose",
-        version = "1.0.2"
+        version = "1.0.1"
     )
 
     // Configure POM metadata for the published artifact
@@ -92,7 +92,7 @@ mavenPublishing {
         name.set("KMP Library for saving data to the clipboard")
         description.set("This library can be used by Android and iOS targets for the shared functionality of saving data to the clipboard")
         inceptionYear.set("2024")
-        url.set("https://github.com/akardas16/clipboard-saver-kmp")
+        url.set("https://github.com/akardas16/Alerter-Compose")
 
         licenses {
             license {
@@ -112,7 +112,7 @@ mavenPublishing {
 
         // Specify SCM information
         scm {
-            url.set("https://github.com/akardas16/clipboard-saver-kmp")
+            url.set("https://github.com/akardas16/Alerter-Compose")
         }
     }
 
