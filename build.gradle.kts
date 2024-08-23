@@ -8,6 +8,7 @@ plugins {
     id("com.vanniktech.maven.publish").apply(false)
     id("org.jetbrains.dokka")
     id("org.jlleitschuh.gradle.ktlint")
+    id("org.jetbrains.kotlin.plugin.compose").apply(false)
 }
 
 subprojects {

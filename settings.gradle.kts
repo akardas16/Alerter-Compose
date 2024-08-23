@@ -29,6 +29,7 @@ pluginManagement {
         id("com.android.library").version(agpVersion)
 
         id("org.jetbrains.compose").version(composeVersion)
+        id("org.jetbrains.kotlin.plugin.compose").version(kotlinVersion)
         id("org.jetbrains.dokka").version(dokkaVersion)
         id("org.jlleitschuh.gradle.ktlint").version(klintVersion)
         id("com.vanniktech.maven.publish").version(mavenPublishVersion)
