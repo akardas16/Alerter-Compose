@@ -33,7 +33,7 @@ kotlin {
                 implementation(compose.ui)
                 implementation(compose.components.uiToolingPreview)
 
-                //implementation("io.github.akardas16:alertercompose:1.0.1")
+                //implementation("io.github.akardas16:alertercompose:1.0.5")
 
                 api(project(":lib"))
             }
