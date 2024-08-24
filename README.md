@@ -16,11 +16,9 @@ sourceSets {
 
 # Showcases
 
-### Standard
-
-### Split
-
-### Snackbar
+Standard | Split | Snackbar |
+| ---- | ---- | ---- |
+| <video align="center" src="https://github.com/user-attachments/assets/79c72ad6-64c1-4651-9ab3-d4a59e597208" width="400">| <video align="center" src="https://github.com/user-attachments/assets/eb14bb78-b277-4e7d-a56b-68a4a498eb76" width="400"> | <video align="center" src="https://github.com/user-attachments/assets/20e63560-e534-4f5f-ae1b-b01ebb2cac9e" width="400"> |
 
 
 # Usage
