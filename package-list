@@ -1,5 +1,19 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:////PointingToDeclaration/lib/[root]/index.html
+$dokka.location://Alerter/#kotlin.Boolean#kotlin.Function1[kotlin.Boolean,kotlin.Unit]#androidx.compose.ui.graphics.Color#AlertStyle#kotlin.Boolean#kotlin.Boolean#kotlin.Long#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/lib/[root]/-alerter.html
 $dokka.location://getPlatformName/#/PointingToDeclaration/lib/[root]/get-platform-name.html
-
+$dokka.location://hapticEffect/#/PointingToDeclaration/lib/[root]/haptic-effect.html
+$dokka.location://toDp/kotlin.Int#/PointingToDeclaration/lib/[root]/to-dp.html
+$dokka.location:/AlertStyle.Snackbar///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}lib/[root]/-alert-style/-snackbar/index.html
+$dokka.location:/AlertStyle.Split///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}lib/[root]/-alert-style/-split/index.html
+$dokka.location:/AlertStyle.Standard///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}lib/[root]/-alert-style/-standard/index.html
+$dokka.location:/AlertStyle///PointingToDeclaration/lib/[root]/-alert-style/index.html
+$dokka.location:/AlertStyle/entries/#/PointingToDeclaration/lib/[root]/-alert-style/entries.html
+$dokka.location:/AlertStyle/valueOf/#kotlin.String/PointingToDeclaration/lib/[root]/-alert-style/value-of.html
+$dokka.location:/AlertStyle/values/#/PointingToDeclaration/lib/[root]/-alert-style/values.html
+$dokka.location:/AppContext///PointingToDeclaration/lib/[root]/-app-context/index.html
+$dokka.location:/AppContext/get/#/PointingToDeclaration/lib/[root]/-app-context/get.html
+$dokka.location:/AppContext/setUp/#android.content.Context/PointingToDeclaration/lib/[root]/-app-context/set-up.html
+module:lib
+main
