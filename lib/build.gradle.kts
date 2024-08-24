@@ -84,13 +84,13 @@ mavenPublishing {
     coordinates(
         groupId = "io.github.akardas16",
         artifactId = "alertercompose",
-        version = "1.0.1"
+        version = "1.0.5"
     )
 
     // Configure POM metadata for the published artifact
     pom {
-        name.set("KMP Library for saving data to the clipboard")
-        description.set("This library can be used by Android and iOS targets for the shared functionality of saving data to the clipboard")
+        name.set("Alerter Compose Library")
+        description.set("Alerter for android, IOS and Desktop targets")
         inceptionYear.set("2024")
         url.set("https://github.com/akardas16/Alerter-Compose")
 

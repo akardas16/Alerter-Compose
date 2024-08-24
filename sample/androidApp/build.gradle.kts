@@ -11,6 +11,12 @@ kotlin {
         val androidMain by getting {
             dependencies {
                 implementation(project(":sample:shared"))
+                implementation(libs.androidx.core.splashscreen)
+
+                implementation(compose.preview)
+                implementation(libs.androidx.activity.compose)
+                api("androidx.appcompat:appcompat:1.6.1")
+                api("androidx.core:core-ktx:1.10.1")
             }
         }
     }

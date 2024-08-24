@@ -33,12 +33,18 @@ kotlin {
                 implementation(compose.ui)
                 implementation(compose.components.uiToolingPreview)
 
+                //implementation("io.github.akardas16:alertercompose:1.0.1")
+
                 api(project(":lib"))
             }
         }
         val androidMain by getting {
             dependencies {
-                api("androidx.activity:activity-compose:1.7.2")
+                //SplashScreen
+                implementation(libs.androidx.core.splashscreen)
+
+                implementation(compose.preview)
+                implementation(libs.androidx.activity.compose)
                 api("androidx.appcompat:appcompat:1.6.1")
                 api("androidx.core:core-ktx:1.10.1")
             }
