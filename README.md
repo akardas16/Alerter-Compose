@@ -44,6 +44,7 @@ Alerter(isVisible = showAlert, alertStyle = AlertStyle.Standard,
 *  See available parameters
 
   ```Kotlin
+@Composable
 fun Alerter(isVisible: Boolean,  // Show/Hide alerter
             onChanged:(visibility:Boolean) -> Unit,
             backgroundColor: Color,
