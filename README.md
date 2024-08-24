@@ -47,7 +47,7 @@ Alerter(isVisible = showAlert, alertStyle = AlertStyle.Standard,
 @Composable
 fun Alerter(isVisible: Boolean,  // Show/Hide alerter
             onChanged:(visibility:Boolean) -> Unit,
-            backgroundColor: Color,
+            backgroundColor: Color,  //Define your background color
             alertStyle: AlertStyle = AlertStyle.Standard, //Change alerter style (Standard, Split, Snackbar)
             enableDismissWhenAlertClick:Boolean = true,   // Dismiss alert when click on alert
             enableDismissAutomatically:Boolean = true,   // Dismiss alert automotically with spesified duration
